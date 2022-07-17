@@ -1,1 +1,1 @@
-# golang-cicd
+# Golang Greeting Module by Fahreza Isnanto

@@ -1,3 +1,3 @@
-module github.com/FahrezaIsnanto/golang-greetings
+module github.com/FahrezaIsnanto/golanggreetings
 
 go 1.18
